@@ -10,7 +10,7 @@
 from PyQt5 import QtCore, QtGui, QtWidgets
 import requests
 
-API = "bec728d68fa54dd3a813df9e47d550a3"
+API = ""
 
 
 class Ui_Weather(object):
